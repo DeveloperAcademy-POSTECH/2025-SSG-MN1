@@ -1,7 +1,6 @@
 >[!question]
 >GQ1. GQ를 쓰세요
 >GQ2. GQ를 쓰세요
->이놈아 잘 좀 되라.
 
 ## Description
 - 개요와 설명을 작성

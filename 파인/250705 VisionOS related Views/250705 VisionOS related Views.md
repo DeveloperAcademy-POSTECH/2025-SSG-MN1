@@ -97,7 +97,7 @@
 + 실제 코드 예시를 작성
 
 ## Keywords
-+ immersion
++ immersion
 + Window
 + Volume
 + Immersive Space
